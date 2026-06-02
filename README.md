@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ayush Patel 👋
 
-<!--
-**AyushPatel2803/AyushPatel2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate from University of Michigan, transitioning into AI/ML engineering. I'm passionate about building with large language models and deep learning.
 
-Here are some ideas to get you started:
+### 🎯 Current Focus
+Learning and building AI projects • Fine-tuning large language models • Open source contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Languages:** Python, JavaScript, Java, C#
+- **ML/AI:** PyTorch, HuggingFace Transformers, Ollama, LLMs
+- **Web:** FastAPI, React.js, Node.js
+- **Tools:** Git, Jupyter, Docker, VS Code
+
+Currently working on:
+🔹 Fine-tuning open-source LLMs (Llama, Mistral)
+🔹 Building production-grade AI systems
+🔹 Contributing to open-source ML projects
+
+Technical Skills:
+- Languages: Python, JavaScript, Java
+- ML/AI: PyTorch, HuggingFace Transformers, Ollama, LLMs, RAG
+- Web: FastAPI, React.js, Node.js
+- Other: Git, Docker, Jupyter, VS Code
+
+I'm actively looking to contribute to AI engineering teams and collaborate on meaningful projects. Let's connect if you're building AI tools or hiring ML engineers!
