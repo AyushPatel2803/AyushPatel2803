@@ -12,7 +12,7 @@ Learning and building AI projects • Fine-tuning large language models • Open
 - **Tools:** Git, Jupyter, Docker, VS Code
 
 ### 🚀 Featured Projects
-- **[Coming Soon]** 
+**[Coming Soon]** 
 - AI/ML project (in progress June 2026)
 - [Resume Analyzer] - Fine-tuned LLM analysis
 - [Knowledge Base RAG] - Semantic search system
