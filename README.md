@@ -1,6 +1,6 @@
 # Hi, I'm Ayush Patel 👋
 
-I'm a Computer Science graduate from University of Michigan, transitioning into AI/ML engineering. I'm passionate about building with large language models and deep learning.
+**CS Graduate → AI/ML Engineer** | University of Michigan '25 | Fine-tuning LLMs
 
 ### 🎯 Current Focus
 Learning and building AI projects • Fine-tuning large language models • Open source contributions
@@ -11,15 +11,15 @@ Learning and building AI projects • Fine-tuning large language models • Open
 - **Web:** FastAPI, React.js, Node.js
 - **Tools:** Git, Jupyter, Docker, VS Code
 
-Currently working on:
-🔹 Fine-tuning open-source LLMs (Llama, Mistral)
-🔹 Building production-grade AI systems
-🔹 Contributing to open-source ML projects
+### 🚀 Featured Projects
+- **[Coming Soon]** 
+- AI/ML project (in progress June 2026)
+- [Resume Analyzer] - Fine-tuned LLM analysis
+- [Knowledge Base RAG] - Semantic search system
 
-Technical Skills:
-- Languages: Python, JavaScript, Java
-- ML/AI: PyTorch, HuggingFace Transformers, Ollama, LLMs, RAG
-- Web: FastAPI, React.js, Node.js
-- Other: Git, Docker, Jupyter, VS Code
+### 📫 Let's Connect
+- **LinkedIn:** https://www.linkedin.com/in/iamayushpatel03
+- **Email:** imayushpatel28@gmail.com
 
-I'm actively looking to contribute to AI engineering teams and collaborate on meaningful projects. Let's connect if you're building AI tools or hiring ML engineers!
+---
+*Always building, always learning* 🔧
