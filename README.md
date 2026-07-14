@@ -19,7 +19,6 @@ Learning and building AI projects • Fine-tuning large language models • Open
 
 ### 📫 Let's Connect
 - **LinkedIn:** https://www.linkedin.com/in/iamayushpatel03
-- **Email:** imayushpatel28@gmail.com
-
+- **Email:** imayushpatel0103@gmail.com
 ---
 *Always building, always learning* 🔧
